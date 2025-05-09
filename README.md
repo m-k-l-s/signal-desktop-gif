@@ -1,3 +1,8 @@
+Since [Signal Desktop `7.51.0`](https://github.com/signalapp/Signal-Desktop/releases/tag/v7.51.0), GIF support is now included in the desktop app 🎉
+
+This repository might still be useful to insert arbitrary GIFs/videos/attachments (Signal Desktop currently only supports Tenor as the GIF provider),
+but I think it makes sense to archive this repository.
+
 # Signal Desktop GIF
 
 Paste GIFs into Signal Desktop with a single global keyboard shortcut.
